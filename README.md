@@ -1,5 +1,3 @@
-# fuck gitHUb
-
 # Coffee Shop Full Stack
 
 ### Udacity Project (Advanced Track)
